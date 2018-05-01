@@ -1,0 +1,40 @@
+{
+    "food":[
+    {
+        "id" : "1",
+        "Cuisine" : "Fusion cuisine",
+        "Description" : "Fusion cuisine is cuisine that combines elements of different culinary traditions. Cuisines of this type are not categorized according to any one particular cuisine style and have played a part in innovations of many contemporary restaurant cuisines since the 1970s "
+    },
+
+    {
+        "id" : "2",
+        "Cuisine" : "Haute cuisine",
+        "Description" : "Haute cuisine developed out of political and social changes in France. The high cuisine represented a hierarchy in 17th century France as only the privileged could eat it. Haute cuisine distinguished itself from regular French cuisine by what was cooked and served such as foods like tongue and caviar, by serving foods such as fruit out of season, by making it difficult and time consuming to cook, and by using exotic ingredients not typically found in France. "
+    },
+
+    {
+        "id" : "3",
+        "Cuisine" : "Note by Note cuisine",
+        "Description" : "Note by Note cuisine is a style of cooking based on molecular gastronomy, created by Hervé This. Dishes are made using pure compounds instead of using animal or plant tissues."
+    },
+
+    {
+        "id" : "4",
+        "Cuisine" : "Nouvelle cuisine",
+        "Description" : "In contrast to cuisine classique, an older form of haute cuisine, nouvelle cuisine is characterized by lighter, more delicate dishes and an increased emphasis on presentation."
+    },
+
+    {
+        "id" : "5",
+        "Cuisine" : "Veganism",
+        "Description" : "Veganism is the practice of abstaining from the use of animal products, particularly in diet, and an associated philosophy that rejects the commodity status of animals. A follower of either the diet or the philosophy is known as a vegan."
+    },
+
+    {
+        "id" : "6",
+        "Cuisine" : "Vegetarian cuisine",
+        "Description" : "Vegetarian cuisine is based on food that meets vegetarian standards by not including meat and animal tissue products (such as gelatin or animal-derived rennet)."
+    }
+    
+    ]
+ }
